@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = brunogabriel.fortunato@gmail.com
+	name = Bruno Conti
